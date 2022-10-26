@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Doctors Appointment",
+      "day": "May 5th at 2:30pm",
+      "reminder": false
+    },
+    {
+      "text": "meeting at school",
+      "day": "monday 13 january 2022 at 3:am",
+      "reminder": false,
+      "id": "Jhai596"
+    },
+    {
+      "text": "go to the dentist",
+      "day": "saturday 23 jun at 4 :pm",
+      "reminder": false,
+      "id": "FAMZyNH"
+    }
+  ]
+}
